@@ -1,0 +1,5 @@
+#!/home/lpt-wn07/Desktop/end-to-end-ml-project/ml-project-env/bin/python3.11
+
+from idlelib.pyshell import main
+if __name__ == '__main__':
+    main()

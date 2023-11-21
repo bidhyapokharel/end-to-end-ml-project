@@ -1,0 +1,5 @@
+#!/home/lpt-wn07/Desktop/end-to-end-ml-project/ml-project-env/bin/python3.11
+import sys
+from lib2to3.main import main
+
+sys.exit(main("lib2to3.fixes"))

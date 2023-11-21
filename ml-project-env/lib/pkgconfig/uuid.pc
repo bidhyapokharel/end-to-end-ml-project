@@ -1,0 +1,11 @@
+prefix=/home/lpt-wn07/Desktop/end-to-end-ml-project/ml-project-env
+exec_prefix=/home/lpt-wn07/Desktop/end-to-end-ml-project/ml-project-env
+libdir=/home/lpt-wn07/Desktop/end-to-end-ml-project/ml-project-env/lib
+includedir=/home/lpt-wn07/Desktop/end-to-end-ml-project/ml-project-env/include
+
+Name: uuid
+Description: Universally unique id library
+Version: 2.32.1
+Requires:
+Cflags: -I${includedir}/uuid
+Libs: -L${libdir} -luuid
